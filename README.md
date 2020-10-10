@@ -1,2 +1,2 @@
-# bounceOff-alogorithm
-isTouching and bounceOff algoritm
+# p5.play-boilerplate
+Boiler plate for p5.play
